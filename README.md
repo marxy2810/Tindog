@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog Generic App Startup Page
